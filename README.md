@@ -78,8 +78,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to reach out to [Your Name] for any questions or feedback. Enjoy using the **JSP Project**!
-
-[Optional: Add contact information or links to relevant resources]
